@@ -1,0 +1,5 @@
+{
+  "name": "Bangladesh Market Price Tracker",
+  "description": "An application to display and track the market prices of various commodities like fish, meat, fruits, and vegetables across different divisions of Bangladesh. Prices are updated periodically to reflect current market rates.",
+  "requestFramePermissions": []
+}
